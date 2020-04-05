@@ -59,3 +59,19 @@ html{
     -moz-animation-name: bounce;
     
 }
+.ard0{
+    fill:none;
+}
+.ard1{
+    fill:none;
+    stroke:#F2F4F4;
+    stroke-miterlimit:10;
+}
+.crown{
+    display: grid;
+    grid-template-columns: repeat( 2, minmax(600px,1fr));
+    gap: 40px;
+    margin: auto;
+    margin-top: 200px;
+    
+}
