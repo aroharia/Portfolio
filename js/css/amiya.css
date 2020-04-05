@@ -88,3 +88,19 @@ body{
     height: 100%;
     width: 100%;
 }
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #2d3436;
+   
+}
+  ::-webkit-scrollbar-thumb {
+    background:#1dd1a1;
+    height: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
