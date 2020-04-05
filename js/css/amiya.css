@@ -1,0 +1,18 @@
+html{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.crown{
+    display: grid;
+    grid-template-columns: repeat( 2, minmax(600px,1fr));
+    gap: 40px;
+    margin: auto;
+    margin-top: 200px;
+    
+}
