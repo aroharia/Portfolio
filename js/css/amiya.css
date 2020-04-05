@@ -179,4 +179,27 @@ opacity: 1;
     -ms-transition:0.5s;
     -o-transition:0.5s;
 }
+.center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.nav a:hover{
+    color: #ecf0f1;
+    display: block;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.nav a.active{
+    color: #ecf0f1;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
  
