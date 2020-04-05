@@ -43,3 +43,19 @@ html{
     opacity: 1;
     color: #ecf0f1;
 }
+.crown span:hover{
+    box-sizing: border-box;
+    transition:all 0.2s ease-in;
+    -webkit-transition:all 0.2s ease-in;
+    -moz-transition:all 0.2s ease-in;
+    -ms-transition:all 0.2s ease-in;
+    -o-transition:all 0.2s ease-in;
+    display: inline-block;
+    opacity: 1;
+    transition-delay: 0s;
+    color: #1dd1a1;
+    cursor: default;
+    animation-name:bounce;
+    -moz-animation-name: bounce;
+    
+}
