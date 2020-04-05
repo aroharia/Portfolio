@@ -16,3 +16,30 @@ html{
     margin-top: 200px;
     
 }
+#pro span{
+    color: #1dd1a1;
+    font-family: 'Poppins', sans-serif;
+    font-size: 4vh;
+    letter-spacing: 2px;
+}
+#pro h1{
+    color: #1dd1a1;
+    font-family: 'Poppins' sans-serif;
+    font-size: 5vh;
+    letter-spacing: 2px;
+}
+.crown span{
+    font-size: 6vh;
+    font-family: 'Coda Caption', sans-serif;
+    font-weight:1000;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function:ease-in-out;
+    animation-iteration-count: 0.5s;
+    -webkit-animation-iteration-count: 0.5s;
+    opacity: 1;
+    color: #ecf0f1;
+}
