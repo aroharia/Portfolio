@@ -75,3 +75,16 @@ html{
     margin-top: 200px;
     
 }
+body{
+    background-color: #202428;
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    animation: amiya ease 5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    -webkit-animation: amiya ease 5s;
+    height: 100%;
+    width: 100%;
+}
