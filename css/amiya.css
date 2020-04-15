@@ -266,11 +266,7 @@ body{
 .sky2{
     background-color:none;
     height: 500px;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
+  
 }
 .javris{
     text-align: center;
@@ -599,13 +595,13 @@ body{
 .nav1{
     display: none;
 }
-.mobnav{
-    display: none;
-}
+
 .prime{
     perspective: none;
     perspective-origin: 0 0;
-    margin-left: 30%;
+    display: flex;
+    justify-content: center;
+ 
     margin-top: 25%;
     perspective: 500px;
 	perspective-origin: 50% 100px;
@@ -761,7 +757,7 @@ button{
     width: 200px;
     background-color: #1dd1a1;
     margin: auto;
-ify-content: center;
+justify-content: center;
     margin-top: 30px;
     border-radius: 40px;
     -webkit-border-radius: 40px;
@@ -1099,6 +1095,7 @@ ify-content: center;
     .sky2{
         height: 250px;
         width: auto;
+       
     }
    
     .logo svg{
@@ -1254,7 +1251,9 @@ ify-content: center;
     }
     .prime{
         display:flex;
-        margin-left: 22%;
+        margin-top: 40%;
+        align-items: center;
+     
     }
     .bee h2{
         font-size: 15px;
