@@ -234,9 +234,10 @@ body{
 .blade{
     display: grid;
     grid-gap:30px;
-    grid-template-columns: repeat(auto-fill,700px);
+    grid-template-columns: repeat(auto-fit,minmax(600px,1fr));
     justify-content: center;
     margin-top: 70px;
+    margin: 1em;
 }
 .sky1{
     background-color:none;
@@ -249,13 +250,13 @@ body{
     
 }
 .blade p{
-    margin-top: 70px;
+    margin-top: 90px;
     margin-left: 10px;
     font-size: 1.3vw;
     font-weight: 300;
     font-family: 'Open Sans', sans-serif;
     color: #ecf0f1;
-    line-height: 25px;
+    line-height: 20px;
 }
 .blade a{
     color: #1dd1a1;
@@ -280,11 +281,12 @@ body{
         margin-top: 70px;
        }
     .work1{
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         height: 400px;
         background-color:#1e272e;
         width: 300px;
-        vertical-align: text-bottom;
         border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
@@ -292,16 +294,17 @@ body{
         -o-border-radius: 10px;
         transition-duration: 1s;
         cursor: pointer;
-        background-image: url();
+        background-image: url("img/designtab.jpg");
     
     
 }
     .work2{
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         height: 400px;
         background-color:#1e272e;
         width: 300px;
-        vertical-align: text-bottom;
         border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
@@ -313,21 +316,23 @@ body{
      }
     .work3{
         border-radius: 10px;
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         height: 400px;
         background-color:#1e272e;
         width: 300px;
-        vertical-align: text-bottom;
         transition-duration: 1s;
         cursor: pointer;
     
 }
     .work4{
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         height: 400px;
         background-color: #1e272e;
         width: 300px;
-        vertical-align: text-bottom;
         border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
@@ -367,7 +372,6 @@ body{
 }
 .designtab{
    color:#1dd1a1;
-   margin-top: -220px;
    font-family: 'Poppins', sans-serif;
    opacity: 0;
    transition: 0.5s ease;
@@ -376,7 +380,6 @@ body{
    -ms-transition: 0.5s ease;
    -o-transition: 0.5s ease;
    font-size: 2.5vh;
-   text-decoration: underline;
 }
 
  .work2 img{
@@ -411,7 +414,6 @@ body{
 
 .monday{
     color:#1dd1a1;
-    margin-top: -220px;
     font-family: 'Poppins',sans-serif;
     opacity: 0;
     transition: 0.5s ease;
@@ -448,7 +450,6 @@ body{
 }
 .bmr{
     color:#1dd1a1 ;
-    margin-top: -220px;
     font-family: 'Poppins',sans-serif;
     opacity: 0;
     transition: 0.5s ease;
@@ -464,7 +465,6 @@ body{
 }
 .aws{
     color:#1dd1a1;
-    margin-top: -220px;
     font-family: 'Poppins',sans-serif;
     opacity: 0;
     transition: 0.5s ease;
@@ -1125,7 +1125,6 @@ justify-content: center;
         width: auto;
     }
     .designtab{
-        margin-top: -155px;
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1134,7 +1133,7 @@ justify-content: center;
         -o-transform: translate(-50,-50);
 }
     .bmr{
-        margin-top: -155px;
+    
         font-family: 'popinns',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1143,7 +1142,7 @@ justify-content: center;
         -o-transform: translate(-50,-50);
 }
     .monday{
-        margin-top: -155px;
+        
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1152,7 +1151,7 @@ justify-content: center;
         -o-transform: translate(-50,-50);
 }
     .aws{
-        margin-top: -155px;
+       
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1160,41 +1159,7 @@ justify-content: center;
         -ms-transform: translate(-50,-50);
         -o-transform: translate(-50,-50);
 }
-    .designtab1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .monday1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .bmr1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .aws1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
+
 }
     .cv{
         margin-top: -70px;
