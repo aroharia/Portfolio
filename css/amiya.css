@@ -179,7 +179,7 @@ body{
 .nav a {
     float: left;
     display: block;
-    padding: 14px 14px;
+    padding: 16px 16px;
     text-decoration: none;
     font-size: 18px;
     font-family: 'Source Sans Pro', sans-serif;
@@ -236,27 +236,24 @@ body{
     grid-gap:30px;
     grid-template-columns: repeat(auto-fit,minmax(600px,1fr));
     justify-content: center;
-    margin-top: 70px;
-    margin: 1em;
+    margin-top: 50px;
+}
+.stext{
+   
+    margin-left: 2rem;
 }
 .sky1{
     background-color:none;
     height: 500px;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
-    
 }
 .blade p{
-    margin-top: 90px;
+    margin-top: 70px;
     margin-left: 10px;
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     font-weight: 300;
     font-family: 'Open Sans', sans-serif;
     color: #ecf0f1;
-    line-height: 20px;
+    line-height: 30px;
 }
 .blade a{
     color: #1dd1a1;
@@ -267,7 +264,6 @@ body{
 .sky2{
     background-color:none;
     height: 500px;
-  
 }
 .javris{
     text-align: center;
@@ -278,12 +274,12 @@ body{
         color:#1dd1a1;
         grid-template-columns: repeat(auto-fit,300px);
         justify-content: center;
-        margin-top: 70px;
+        margin-top: 50px;
        }
     .work1{
         display: flex;
-        justify-content: center;
         align-items: center;
+        justify-content: center;
         height: 400px;
         background-color:#1e272e;
         width: 300px;
@@ -294,11 +290,21 @@ body{
         -o-border-radius: 10px;
         transition-duration: 1s;
         cursor: pointer;
-        background-image: url("img/designtab.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        
+       
     
     
 }
-    .work2{
+.im{
+    background-image: url('img/uiux.JPG');
+}
+.im1{
+    background-image: url('img/web-01.svg');
+}
+.work2{
         display: flex;
         justify-content: center;
         align-items: center;
@@ -312,27 +318,29 @@ body{
         -o-border-radius: 10px;
         transition-duration: 1s;
         cursor: pointer;
-        background-image: url(/img/mknmkjmk.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
      }
     .work3{
         border-radius: 10px;
         display: flex;
-        justify-content: center;
-        align-items: center;
         height: 400px;
         background-color:#1e272e;
         width: 300px;
+        justify-content: center;
+        align-items: center;
         transition-duration: 1s;
         cursor: pointer;
     
 }
     .work4{
         display: flex;
-        justify-content: center;
-        align-items: center;
         height: 400px;
         background-color: #1e272e;
         width: 300px;
+        justify-content: center;
+        align-items: center;
         border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
@@ -370,16 +378,17 @@ body{
    -ms-transform: scale(1.1);
    -o-transform: scale(1.1);
 }
-.designtab{
-   color:#1dd1a1;
+.uiux{
+   color:#ecf0f1;
    font-family: 'Poppins', sans-serif;
    opacity: 0;
+
    transition: 0.5s ease;
    -webkit-transition: 0.5s ease;
    -moz-transition: 0.5s ease;
    -ms-transition: 0.5s ease;
    -o-transition: 0.5s ease;
-   font-size: 2.5vh;
+   font-size: 4vh;
 }
 
  .work2 img{
@@ -413,7 +422,7 @@ body{
 
 
 .monday{
-    color:#1dd1a1;
+    color:#ecf0f1;
     font-family: 'Poppins',sans-serif;
     opacity: 0;
     transition: 0.5s ease;
@@ -421,8 +430,8 @@ body{
     -moz-transition:0.5s ease;
     -ms-transition:0.5 ease;
     -o-transition:0.5s ease;
-    text-decoration: underline;
-    font-size: 2.5vh;
+    font-size: 3vh;
+  
 }
 .work2:hover .monday{
     opacity: 1;
@@ -430,7 +439,7 @@ body{
 .work2:hover .imagee{
     opacity: 0.3;
 }
-.work1:hover .designtab{
+.work1:hover .uiux{
     opacity: 1;
 }
 .work1:hover .imagee{
@@ -457,7 +466,6 @@ body{
     -moz-transition: 0.5s ease;
     -ms-transition: 0.5s ease;
     -o-transition: 0.5s ease;
-    text-decoration: underline;
     font-size: 2.5vh;
 }
 .work3:hover .bmr{
@@ -595,14 +603,16 @@ body{
 .nav1{
     display: none;
 }
-
+.mobnav{
+    display: none;
+}
 .prime{
-    perspective: none;
-    perspective-origin: 0 0;
     display: flex;
     justify-content: center;
- 
-    margin-top: 25%;
+    perspective: none;
+    perspective-origin: 0 0;
+
+    margin-top:25% !important;
     perspective: 500px;
 	perspective-origin: 50% 100px;
 }
@@ -749,7 +759,7 @@ button{
    text-align: center;
 }
 
-.work1:hover .designtab {
+.work1:hover .uiux {
     opacity: 1;
 }
 .backbtn{
@@ -757,7 +767,7 @@ button{
     width: 200px;
     background-color: #1dd1a1;
     margin: auto;
-justify-content: center;
+    justify-content: center;
     margin-top: 30px;
     border-radius: 40px;
     -webkit-border-radius: 40px;
@@ -980,6 +990,10 @@ justify-content: center;
         padding: auto;
         margin-top: 30px;
     }
+    .prime{
+        display: flex;
+        justify-content: center;
+    }
     
 }
 
@@ -1095,7 +1109,7 @@ justify-content: center;
     .sky2{
         height: 250px;
         width: auto;
-       
+        
     }
    
     .logo svg{
@@ -1109,22 +1123,34 @@ justify-content: center;
         grid-gap: 10px;
     }
     .work1{
-        height: 350px;
+        height: 370px;
         width: auto;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     }
     .work2{
         height: 350px;
         width: auto;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     }
     .work3{
         height: 350px;
         width: auto;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     }
     .work4{
         height: 350px;
         width: auto;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     }
-    .designtab{
+    .uiux{
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1133,7 +1159,7 @@ justify-content: center;
         -o-transform: translate(-50,-50);
 }
     .bmr{
-    
+        margin-top: -155px;
         font-family: 'popinns',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1142,7 +1168,7 @@ justify-content: center;
         -o-transform: translate(-50,-50);
 }
     .monday{
-        
+        margin-top: -155px;
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1151,7 +1177,7 @@ justify-content: center;
         -o-transform: translate(-50,-50);
 }
     .aws{
-       
+        margin-top: -155px;
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1159,7 +1185,41 @@ justify-content: center;
         -ms-transform: translate(-50,-50);
         -o-transform: translate(-50,-50);
 }
-
+    .designtab1{
+        margin-top: 155px;
+        font-family: 'poppins',sans-serif;
+        transform: translate(-50,-50);
+        -webkit-transform: translate(-50,-50);
+        -moz-transform: translate(-50,-50);
+        -ms-transform: translate(-50,-50);
+        -o-transform: translate(-50,-50);
+}
+    .monday1{
+        margin-top: 155px;
+        font-family: 'poppins',sans-serif;
+        transform: translate(-50,-50);
+        -webkit-transform: translate(-50,-50);
+        -moz-transform: translate(-50,-50);
+        -ms-transform: translate(-50,-50);
+        -o-transform: translate(-50,-50);
+}
+    .bmr1{
+        margin-top: 155px;
+        font-family: 'poppins',sans-serif;
+        transform: translate(-50,-50);
+        -webkit-transform: translate(-50,-50);
+        -moz-transform: translate(-50,-50);
+        -ms-transform: translate(-50,-50);
+        -o-transform: translate(-50,-50);
+}
+    .aws1{
+        margin-top: 155px;
+        font-family: 'poppins',sans-serif;
+        transform: translate(-50,-50);
+        -webkit-transform: translate(-50,-50);
+        -moz-transform: translate(-50,-50);
+        -ms-transform: translate(-50,-50);
+        -o-transform: translate(-50,-50);
 }
     .cv{
         margin-top: -70px;
@@ -1216,9 +1276,7 @@ justify-content: center;
     }
     .prime{
         display:flex;
-        margin-top: 40%;
-        align-items: center;
-     
+        justify-content: center;
     }
     .bee h2{
         font-size: 15px;
@@ -1270,6 +1328,9 @@ justify-content: center;
     .work4 img {
         height: 350px;
         width: 300px;
+    }
+    .stext{
+        margin: 1em;
     }
 
     
