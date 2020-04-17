@@ -1,1 +1,92 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"><defs><style>.cls-1,.cls-10,.cls-2,.cls-7{fill:none;}.cls-1,.cls-11{stroke:#2ecc71;}.cls-1,.cls-10,.cls-11,.cls-2,.cls-7{stroke-miterlimit:10;}.cls-10,.cls-2{stroke:#efefef;}.cls-2{stroke-width:0.75px;}.cls-3{font-size:10px;font-family:Gilroy-Light, Gilroy;font-weight:300;}.cls-12,.cls-16,.cls-3{fill:#fff;}.cls-4{letter-spacing:0em;}.cls-5{letter-spacing:0.01em;}.cls-6{letter-spacing:0em;}.cls-7{stroke:#fff;stroke-width:0.25px;}.cls-8{fill:#d1d1d1;}.cls-9{fill:#222f3e;}.cls-10{stroke-width:0.5px;}.cls-11{font-size:41.69px;fill:#2ecc71;font-family:MyriadPro-Regular, Myriad Pro;}.cls-12{font-size:8px;}.cls-12,.cls-16{font-family:Gilroy-Regular, Gilroy;}.cls-13{letter-spacing:-0.02em;}.cls-14{letter-spacing:0em;}.cls-15{letter-spacing:-0.03em;}.cls-16{font-size:7px;}.cls-17{letter-spacing:-0.04em;}.cls-18{letter-spacing:0em;}</style></defs><title>web</title><rect width="300" height="400"/><rect class="cls-1" x="24.5" y="25.5" width="250" height="194"/><rect class="cls-2" x="43.5" y="37.5" width="212" height="21" rx="3.64"/><rect class="cls-2" x="44.15" y="75.18" width="73" height="123" rx="4.93"/><rect class="cls-2" x="129.8" y="76.87" width="125" height="85" rx="4.71"/><rect class="cls-2" x="129.08" y="166.19" width="126" height="31" rx="4.43"/><text class="cls-3" transform="translate(133.42 51.1)">Header</text><text class="cls-3" transform="translate(177.78 122.42)">image</text><text class="cls-3" transform="translate(65.13 139.73)"><tspan class="cls-4">s</tspan><tspan x="4.53" y="0">idebar</tspan></text><text class="cls-3" transform="translate(179.56 184.74)">a<tspan class="cls-5" x="6.45" y="0">r</tspan><tspan class="cls-6" x="9.7" y="0">ticle</tspan></text><line class="cls-7" x1="44.5" y1="5.5" x2="44.5" y2="24.5"/><line class="cls-7" x1="256" y1="6" x2="256" y2="25"/><line class="cls-7" x1="7.5" y1="75.5" x2="24.5" y2="75.5"/><line class="cls-7" x1="8" y1="198.5" x2="25" y2="198.5"/><text class="cls-3" transform="translate(16.36 143.98) rotate(-90)">x fr</text><line class="cls-7" x1="14" y1="77" x2="14" y2="128"/><line class="cls-7" x1="14.5" y1="146" x2="14.5" y2="197"/><line class="cls-7" x1="8" y1="37" x2="24" y2="37"/><line class="cls-7" x1="9" y1="59" x2="25" y2="59"/><text class="cls-3" transform="translate(142.86 17.57)">y fr</text><line class="cls-7" x1="47" y1="15" x2="141" y2="15"/><line class="cls-7" x1="159" y1="15" x2="256" y2="15"/><path class="cls-8" d="M100.36,293.69H203.64a8.86,8.86,0,0,1,8.86,8.86V363a0,0,0,0,1,0,0H91.5a0,0,0,0,1,0,0V302.54A8.86,8.86,0,0,1,100.36,293.69Z"/><rect class="cls-9" x="96.87" y="299.31" width="110.25" height="60.75"/><line class="cls-10" x1="46.5" y1="345.5" x2="63.5" y2="362.5"/><line class="cls-10" x1="152.5" y1="295" x2="152.5" y2="268"/><line class="cls-10" x1="63.73" y1="320.98" x2="46.27" y2="287.02"/><line class="cls-10" x1="63.5" y1="320.5" x2="90.5" y2="320.5"/><path class="cls-1" d="M48.12,256.5H39.88a8.34,8.34,0,0,0-7.24,4.18l-4.12,7.14a8.33,8.33,0,0,0,0,8.36l4.12,7.14a8.34,8.34,0,0,0,7.24,4.18h8.24a8.34,8.34,0,0,0,7.24-4.18l4.12-7.14a8.33,8.33,0,0,0,0-8.36l-4.12-7.14A8.34,8.34,0,0,0,48.12,256.5Z"/><path class="cls-1" d="M156.12,237.5h-8.24a8.34,8.34,0,0,0-7.24,4.18l-4.12,7.14a8.33,8.33,0,0,0,0,8.36l4.12,7.14a8.34,8.34,0,0,0,7.24,4.18h8.24a8.34,8.34,0,0,0,7.24-4.18l4.12-7.14a8.33,8.33,0,0,0,0-8.36l-4.12-7.14A8.34,8.34,0,0,0,156.12,237.5Z"/><path class="cls-1" d="M261.12,259.5h-8.24a8.34,8.34,0,0,0-7.24,4.18l-4.12,7.14a8.33,8.33,0,0,0,0,8.36l4.12,7.14a8.34,8.34,0,0,0,7.24,4.18h8.24a8.34,8.34,0,0,0,7.24-4.18l4.12-7.14a8.33,8.33,0,0,0,0-8.36l-4.12-7.14A8.34,8.34,0,0,0,261.12,259.5Z"/><path class="cls-1" d="M262.12,312.5h-8.24a8.34,8.34,0,0,0-7.24,4.18l-4.12,7.14a8.33,8.33,0,0,0,0,8.36l4.12,7.14a8.34,8.34,0,0,0,7.24,4.18h8.24a8.34,8.34,0,0,0,7.24-4.18l4.12-7.14a8.33,8.33,0,0,0,0-8.36l-4.12-7.14A8.34,8.34,0,0,0,262.12,312.5Z"/><path class="cls-1" d="M46.12,314.5H37.88a8.34,8.34,0,0,0-7.24,4.18l-4.12,7.14a8.33,8.33,0,0,0,0,8.36l4.12,7.14a8.34,8.34,0,0,0,7.24,4.18h8.24a8.34,8.34,0,0,0,7.24-4.18l4.12-7.14a8.33,8.33,0,0,0,0-8.36l-4.12-7.14A8.34,8.34,0,0,0,46.12,314.5Z"/><line class="cls-10" x1="63.5" y1="362.5" x2="90.5" y2="362.5"/><line class="cls-10" x1="212.5" y1="312.5" x2="230.5" y2="312.5"/><line class="cls-10" x1="212.5" y1="362.5" x2="230.5" y2="362.5"/><line class="cls-10" x1="230.5" y1="312.5" x2="253" y2="290"/><line class="cls-10" x1="230.5" y1="362.5" x2="251" y2="342"/><text class="cls-11" transform="translate(119 342.71)">&lt;/&gt;</text><text class="cls-12" transform="translate(31.86 274.79)">HTML5</text><text class="cls-12" transform="translate(31.86 333.79)">C<tspan class="cls-13" x="5.96" y="0">S</tspan><tspan class="cls-14" x="10.37" y="0">S3</tspan></text><text class="cls-12" transform="translate(143.86 255.86)">PH<tspan class="cls-15" x="10.16" y="0">P</tspan><tspan x="14.64" y="0">7</tspan></text><text class="cls-12" transform="translate(247.86 278.86)"><tspan xml:space="preserve">  JS</tspan></text><text class="cls-16" transform="translate(246.86 330.86)">Nod<tspan class="cls-17" x="13.45" y="0">e</tspan><tspan class="cls-18" x="17.26" y="0">.js</tspan></text></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 400" style="enable-background:new 0 0 300 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#2ECC71;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#EFEFEF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Gilroy-Light';}
+	.st4{font-size:10px;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st6{fill:none;}
+	.st7{fill:#D1D1D1;}
+	.st8{fill:#222F3E;}
+	.st9{fill:none;stroke:#EFEFEF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st10{fill:#EFEFEF;}
+	.st11{fill:#2ECC71;stroke:#2ECC71;stroke-miterlimit:10;}
+	.st12{font-family:'MyriadPro-Regular';}
+	.st13{font-size:41.694px;}
+	.st14{font-family:'Gilroy-Regular';}
+	.st15{font-size:8px;}
+	.st16{font-size:7px;}
+</style>
+<rect width="300" height="400"/>
+<rect x="26.5" y="38.5" class="st0" width="250" height="194"/>
+<path class="st1" d="M253.86,71.5H49.14c-2.01,0-3.64-1.63-3.64-3.64V54.14c0-2.01,1.63-3.64,3.64-3.64h204.71
+	c2.01,0,3.64,1.63,3.64,3.64v13.71C257.5,69.87,255.87,71.5,253.86,71.5z"/>
+<path class="st1" d="M114.22,211.18H51.08c-2.72,0-4.93-2.21-4.93-4.93V93.11c0-2.72,2.21-4.93,4.93-4.93h63.14
+	c2.72,0,4.93,2.21,4.93,4.93v113.14C119.15,208.98,116.94,211.18,114.22,211.18z"/>
+<path class="st1" d="M252.08,174.87H136.51c-2.6,0-4.71-2.11-4.71-4.71V94.58c0-2.6,2.11-4.71,4.71-4.71h115.57
+	c2.6,0,4.71,2.11,4.71,4.71v75.57C256.8,172.76,254.68,174.87,252.08,174.87z"/>
+<path class="st1" d="M252.65,210.19H135.51c-2.45,0-4.43-1.98-4.43-4.43v-22.14c0-2.45,1.98-4.43,4.43-4.43h117.14
+	c2.45,0,4.43,1.98,4.43,4.43v22.14C257.08,208.21,255.1,210.19,252.65,210.19z"/>
+<text transform="matrix(1 0 0 1 135.4249 64.0965)" class="st2 st3 st4">Header</text>
+<g>
+	<text transform="matrix(1 0 0 1 179.7759 135.4178)" class="st2 st3 st4">image</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 67.1282 152.7339)" class="st2 st3 st4">sidebar</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 181.5615 197.7394)" class="st2 st3 st4">article</text>
+</g>
+<line class="st5" x1="46.5" y1="18.5" x2="46.5" y2="37.5"/>
+<line class="st5" x1="258" y1="19" x2="258" y2="38"/>
+<line class="st5" x1="9.5" y1="88.5" x2="26.5" y2="88.5"/>
+<line class="st5" x1="10" y1="211.5" x2="27" y2="211.5"/>
+<g>
+	<text transform="matrix(0 -1 1 0 18.3606 145.9751)" class="st2 st3 st4">x fr</text>
+</g>
+<line class="st5" x1="15" y1="77" x2="15" y2="128"/>
+<line class="st5" x1="15.5" y1="146" x2="15.5" y2="197"/>
+<line class="st5" x1="10" y1="50" x2="26" y2="50"/>
+<line class="st5" x1="11" y1="72" x2="27" y2="72"/>
+<g>
+	<text transform="matrix(1 0 0 1 144.8569 30.5713)" class="st2 st3 st4">y fr</text>
+</g>
+<line class="st5" x1="49" y1="28" x2="143" y2="28"/>
+<line class="st5" x1="161" y1="28" x2="258" y2="28"/>
+<path class="st7" d="M214.5,376h-121v-60.46c0-4.89,3.97-8.86,8.86-8.86h103.29c4.89,0,8.86,3.97,8.86,8.86V376z"/>
+<rect x="98.88" y="312.31" class="st8" width="110.25" height="60.75"/>
+<line class="st9" x1="48.5" y1="358.5" x2="65.5" y2="375.5"/>
+<line class="st9" x1="154.5" y1="308" x2="154.5" y2="281"/>
+<line class="st9" x1="65.73" y1="333.98" x2="48.27" y2="300.02"/>
+<line class="st9" x1="65.5" y1="333.5" x2="92.5" y2="333.5"/>
+<path class="st0" d="M50.12,269.5h-8.24c-2.99,0-5.75,1.59-7.24,4.18l-4.12,7.14c-1.49,2.59-1.49,5.77,0,8.36l4.12,7.14
+	c1.49,2.59,4.25,4.18,7.24,4.18h8.24c2.99,0,5.75-1.59,7.24-4.18l4.12-7.14c1.49-2.59,1.49-5.77,0-8.36l-4.12-7.14
+	C55.87,271.09,53.11,269.5,50.12,269.5z"/>
+<path class="st0" d="M158.12,250.5h-8.24c-2.99,0-5.75,1.59-7.24,4.18l-4.12,7.14c-1.49,2.59-1.49,5.77,0,8.36l4.12,7.14
+	c1.49,2.59,4.25,4.18,7.24,4.18h8.24c2.99,0,5.75-1.59,7.24-4.18l4.12-7.14c1.49-2.59,1.49-5.77,0-8.36l-4.12-7.14
+	C163.87,252.09,161.11,250.5,158.12,250.5z"/>
+<path class="st0" d="M263.12,272.5h-8.24c-2.99,0-5.75,1.59-7.24,4.18l-4.12,7.14c-1.49,2.59-1.49,5.77,0,8.36l4.12,7.14
+	c1.49,2.59,4.25,4.18,7.24,4.18h8.24c2.99,0,5.75-1.59,7.24-4.18l4.12-7.14c1.49-2.59,1.49-5.77,0-8.36l-4.12-7.14
+	C268.87,274.09,266.11,272.5,263.12,272.5z"/>
+<path class="st0" d="M264.12,325.5h-8.24c-2.99,0-5.75,1.59-7.24,4.18l-4.12,7.14c-1.49,2.59-1.49,5.77,0,8.36l4.12,7.14
+	c1.49,2.59,4.25,4.18,7.24,4.18h8.24c2.99,0,5.75-1.59,7.24-4.18l4.12-7.14c1.49-2.59,1.49-5.77,0-8.36l-4.12-7.14
+	C269.87,327.09,267.11,325.5,264.12,325.5z"/>
+<path class="st0" d="M48.12,327.5h-8.24c-2.99,0-5.75,1.59-7.24,4.18l-4.12,7.14c-1.49,2.59-1.49,5.77,0,8.36l4.12,7.14
+	c1.49,2.59,4.25,4.18,7.24,4.18h8.24c2.99,0,5.75-1.59,7.24-4.18l4.12-7.14c1.49-2.59,1.49-5.77,0-8.36l-4.12-7.14
+	C53.87,329.09,51.11,327.5,48.12,327.5z"/>
+<line class="st9" x1="65.5" y1="375.5" x2="92.5" y2="375.5"/>
+<line class="st9" x1="214.5" y1="325.5" x2="232.5" y2="325.5"/>
+<line class="st9" x1="214.5" y1="375.5" x2="232.5" y2="375.5"/>
+<line class="st9" x1="232.5" y1="325.5" x2="255" y2="303"/>
+<line class="st9" x1="232.5" y1="375.5" x2="253" y2="355"/>
+<text transform="matrix(1 0 0 1 121 358.7109)" class="st11 st12 st13">&lt;/&gt;</text>
+<text transform="matrix(1 0 0 1 33.8564 287.7881)" class="st2 st14 st15">HTML5</text>
+<text transform="matrix(1 0 0 1 33.8564 346.7881)" class="st2 st14 st15">CSS3</text>
+<text transform="matrix(1 0 0 1 145.8569 268.8574)" class="st2 st14 st15">PHP7</text>
+<text transform="matrix(1 0 0 1 249.8569 291.8574)" class="st2 st14 st15">  JS</text>
+<text transform="matrix(1 0 0 1 248.8569 343.8574)" class="st2 st14 st16">Node.js</text>
+</svg>
