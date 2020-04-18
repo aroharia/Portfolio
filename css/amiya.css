@@ -300,9 +300,16 @@ body{
 }
 .im{
     background-image: url('img/ui ux-01.svg');
+    height: 100%;
 }
 .im1{
     background-image: url('img/web-01.svg');
+    height: 100%;
+    
+}
+.im2{
+    background-image: url('img/graphic-01.svg');
+    height: 100%;
 }
 .work2{
         display: flex;
@@ -332,6 +339,9 @@ body{
         align-items: center;
         transition-duration: 1s;
         cursor: pointer;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     
 }
     .work4{
@@ -348,6 +358,9 @@ body{
         -o-border-radius: 10px;
         transition-duration: 1s;
         cursor: pointer;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
         }
 .work1:hover{
     transform: scale(1.1);
@@ -1125,30 +1138,22 @@ button{
     .work1{
         height: 370px;
         width: auto;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
     }
+     
     .work2{
         height: 350px;
         width: auto;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
     }
+       
     .work3{
         height: 350px;
         width: auto;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
+      
     }
     .work4{
         height: 350px;
         width: auto;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
+     
     }
     .uiux{
         font-family: 'poppins',sans-serif;
@@ -1159,7 +1164,7 @@ button{
         -o-transform: translate(-50,-50);
 }
     .bmr{
-        margin-top: -155px;
+       
         font-family: 'popinns',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1168,7 +1173,6 @@ button{
         -o-transform: translate(-50,-50);
 }
     .monday{
-        margin-top: -155px;
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1177,7 +1181,6 @@ button{
         -o-transform: translate(-50,-50);
 }
     .aws{
-        margin-top: -155px;
         font-family: 'poppins',sans-serif;
         transform: translate(-50,-50);
         -webkit-transform: translate(-50,-50);
@@ -1194,33 +1197,7 @@ button{
         -ms-transform: translate(-50,-50);
         -o-transform: translate(-50,-50);
 }
-    .monday1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .bmr1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .aws1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
+    
     .cv{
         margin-top: -70px;
         margin-left: 110px;
