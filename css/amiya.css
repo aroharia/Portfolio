@@ -311,6 +311,10 @@ body{
     background-image: url('img/graphic-01.svg');
     height: 100%;
 }
+.im3{
+    background-image: url('img/Logo-01.svg');
+    height: 100%;
+}
 .work2{
         display: flex;
         justify-content: center;
@@ -471,7 +475,7 @@ body{
     opacity: 0.3;
 }
 .bmr{
-    color:#1dd1a1 ;
+    color:#ecf0f1 ;
     font-family: 'Poppins',sans-serif;
     opacity: 0;
     transition: 0.5s ease;
@@ -479,7 +483,7 @@ body{
     -moz-transition: 0.5s ease;
     -ms-transition: 0.5s ease;
     -o-transition: 0.5s ease;
-    font-size: 2.5vh;
+    font-size: 3vh;
 }
 .work3:hover .bmr{
     opacity: 1;
@@ -1284,7 +1288,7 @@ button{
         width: 150px;
     }
     .rbtn h3{
-        margin-top: 11px;
+        
         font-size: 16px;
     }
     .backbtn h3{
