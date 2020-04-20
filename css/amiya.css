@@ -489,7 +489,7 @@ body{
     opacity: 1;
 }
 .aws{
-    color:#1dd1a1;
+    color:#ecf0f1;
     font-family: 'Poppins',sans-serif;
     opacity: 0;
     transition: 0.5s ease;
@@ -497,8 +497,7 @@ body{
     -moz-transition: 0.5s ease;
     -ms-transition: 0.5s ease;
     -o-transition: 0.5s ease;
-    text-decoration: underline;
-    font-size: 2.5vh;
+    font-size: 3vh;
 }
 .work4:hover .aws {
     opacity: 1;
@@ -1138,12 +1137,12 @@ button{
     .super{
         margin-top: 20px;
         grid-gap: 10px;
-        margin-left: 10px;
+      
         margin-bottom: 50px;
     }
     .work1{
         height: 350px;
-        width: auto;
+        width: 100%;
     }
      
     .work2{
