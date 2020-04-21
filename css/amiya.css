@@ -244,7 +244,7 @@ body{
 }
 .sky1{
     background-color:none;
-    height: 500px;
+    height: auto;
 }
 .blade p{
     margin-top: 70px;
@@ -263,7 +263,7 @@ body{
 }
 .sky2{
     background-color:none;
-    height: 500px;
+    height: auto;
 }
 .javris{
     text-align: center;
