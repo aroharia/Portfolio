@@ -1,0 +1,19 @@
+{
+  "name": "amiyaranjan.com",
+  "version": "1.0.0",
+  "description": "for personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiya12345/Portfolio.git"
+  },
+  "author": "Amiya Ranjan Sethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiya12345/Portfolio/issues"
+  },
+  "homepage": "https://github.com/amiya12345/Portfolio"
+}
