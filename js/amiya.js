@@ -6,16 +6,6 @@
 //git hub link : https://github.com/amiya12345/project-sky_blade
 //name :Amiya Ranjan Sethi
 
-
-
-
-var head = document.getElementsByTagName('HEAD')[0];  
-var link = document.createElement('link'); 
-link.rel = 'stylesheet';
-link.type = 'text/css'; 
-link.href = 'css/amiya.css'; 
-head.appendChild(link); 
-
 var TxtRotate = function(el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
