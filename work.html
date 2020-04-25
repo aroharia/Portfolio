@@ -1,5 +1,6 @@
 <html>
     <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164321636-1"></script>
         <meta name="viewport" content="width=device-width,intial-scale=1.0" >
         <title>amiyaranjansethi.com</title>
         <script src="js/amiya.js"></script>
@@ -9,15 +10,17 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/100/three.min.js"></script>
         <link rel="stylesheet" type="style/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" >
-    
         <script>
-            $(document).ready(function(){
-                  $('body').bind('cut copy paste', function (e) {
-                      e.preventDefault();
-                  });
-            });
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
           
+            gtag('config', 'UA-164321636-1');
+
+            
+            
         </script>
+      
       
         
     </head>
