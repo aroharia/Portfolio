@@ -459,7 +459,7 @@ body{
 .work1:hover .uiux{
     opacity: 1;
 }
-.work1:hover .imagee{
+.work1:hover .im{
     opacity: 0.3;
 }
 .work3:hover .bmr{
@@ -1160,49 +1160,7 @@ button{
         width: auto;
      
     }
-    .uiux{
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .bmr{
-       
-        font-family: 'popinns',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .monday{
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .aws{
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    .designtab1{
-        margin-top: 155px;
-        font-family: 'poppins',sans-serif;
-        transform: translate(-50,-50);
-        -webkit-transform: translate(-50,-50);
-        -moz-transform: translate(-50,-50);
-        -ms-transform: translate(-50,-50);
-        -o-transform: translate(-50,-50);
-}
-    
+
     .cv{
         margin-top: -70px;
         margin-left: 110px;
@@ -1313,6 +1271,20 @@ button{
     }
     .stext{
         margin: 1em;
+    }
+    .work1:hover{
+        transform:none;
+        
+    }
+    .work2:hover{
+        transform:none;
+      
+    }
+    .work3:hover{
+        transform:none;
+    }
+    .work4:hover{
+        transform:none;
     }
 
     
