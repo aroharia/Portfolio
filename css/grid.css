@@ -1,0 +1,132 @@
+
+.crown{
+    display: grid;
+    grid-template-columns: repeat( 2, minmax(600px,1fr));
+    gap: 40px;
+    margin: auto;
+    margin-top: 200px;
+    
+}
+
+.blade{
+    display: grid;
+    grid-gap:30px;
+    grid-template-columns: repeat(auto-fit,minmax(600px,1fr));
+    justify-content: center;
+    margin-top: 50px;
+}
+.super{
+    display: grid;
+    gap: 20px;
+    color:#1dd1a1;
+    grid-template-columns: repeat(auto-fit,300px);
+    justify-content: center;
+    margin-top: 50px;
+   }
+.hello{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit,minmax(600px,1fr));
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.uiuxworks{
+
+margin: 0% 5%;
+display: grid;
+grid-template-columns: repeat(5, 1fr);
+grid-template-rows: repeat(5, 1fr);
+grid-column-gap: 10px;
+grid-row-gap: 10px;
+
+
+}
+.wrk1{
+    grid-row:1/4;
+    grid-column: 1/4;
+}
+.wrk2{
+  grid-row: 1/4;
+  grid-column: 4/6;
+}
+.wrk3{
+    grid-row: 4/6;
+    grid-column: 1/3;
+}
+.wrk4{
+    grid-column: 3/6;
+    grid-row: 4/6;
+}
+
+@media all and (min-height:1024px){
+    .crown{
+        grid-template-columns: repeat(1, minmax(250px,1fr));
+        display: grid;
+        margin: auto;
+        text-align: center;
+    }
+}
+@media all and (max-width:767px){
+    .crown{
+        grid-template-columns: repeat(1, minmax(250px,1fr));
+        display: grid;
+        margin: auto;
+        text-align: center;
+     }
+    .blade{
+        grid-template-columns: repeat(auto-fit,
+        minmax(200px,1fr)
+        );
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        grid-gap: 10px;
+    }
+    .hello{
+        grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+        margin-left: 10px;
+        margin-bottom: 80px;
+        margin-right: 10px;
+    }
+    .astrom{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+        margin-top: 30px;
+        margin-left: 10px;
+        margin-right: 10px;
+
+    }
+    .inori{
+        display: grid;
+        grid-template-columns: repeat(1,minmax(100%,1fr));
+        margin-top: 20px;
+    }
+    .uiuxworks{
+
+        margin: 0% 10%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+        
+        
+        }
+        .wrk1{
+            grid-row:1/2;
+            grid-column: 1/2;
+        }
+        .wrk2{
+            grid-row: 4/5;
+            grid-column: 1/2;
+          }
+          .wrk3{
+            grid-row: 2/3;
+            grid-column: 1/2
+          }
+          .wrk4{
+            grid-row: 3/4;
+            grid-column: 1/2;
+          }
+}
